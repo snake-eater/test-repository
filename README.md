@@ -1,5 +1,5 @@
 # first struggle
-```
+
 User Input with Loops and Conditionals. Use  raw_input() to prompt for a number
 between 1 and 100. If the input matches criteria, indicate so on the screen and exit.
 Otherwise, display an error and reprompt the user until the correct input is received.
